@@ -1,4 +1,4 @@
-# WazeBoard back-end README
+# back-board README
 
 npm install
 npm run devsrv
