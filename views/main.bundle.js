@@ -837,7 +837,7 @@ var EmployeeComponent = (function () {
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Globals; });
 var Globals = Object.freeze({
-    BASE_API_URL: 'http://localhost:3333'
+    BASE_API_URL: 'https://back-board-evandersar.c9users.io:8080'
 });
 // 192.168.1.150 ihor
 // 192.168.1.165 evan
