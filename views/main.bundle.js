@@ -239,7 +239,7 @@ var NavbarComponent = (function () {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_common__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_common__ = __webpack_require__(29);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__token_parse_service__ = __webpack_require__(68);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AdminGuard; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -273,7 +273,7 @@ var AdminGuard = (function () {
     };
     AdminGuard = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Injectable"])(), 
-        __metadata('design:paramtypes', [(typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__angular_common__["c" /* Location */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_1__angular_common__["c" /* Location */]) === 'function' && _a) || Object, (typeof (_b = typeof __WEBPACK_IMPORTED_MODULE_2__token_parse_service__["a" /* TokenParseService */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_2__token_parse_service__["a" /* TokenParseService */]) === 'function' && _b) || Object])
+        __metadata('design:paramtypes', [(typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__angular_common__["e" /* Location */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_1__angular_common__["e" /* Location */]) === 'function' && _a) || Object, (typeof (_b = typeof __WEBPACK_IMPORTED_MODULE_2__token_parse_service__["a" /* TokenParseService */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_2__token_parse_service__["a" /* TokenParseService */]) === 'function' && _b) || Object])
     ], AdminGuard);
     return AdminGuard;
     var _a, _b;
@@ -452,7 +452,7 @@ var AppComponent = (function () {
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_router__ = __webpack_require__(34);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_common__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_common__ = __webpack_require__(29);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__rest_service__ = __webpack_require__(39);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return EditSvComponent; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -554,7 +554,7 @@ var EditSvComponent = (function () {
             template: __webpack_require__(778),
             styles: [__webpack_require__(751)]
         }), 
-        __metadata('design:paramtypes', [(typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__angular_router__["c" /* ActivatedRoute */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_1__angular_router__["c" /* ActivatedRoute */]) === 'function' && _a) || Object, (typeof (_b = typeof __WEBPACK_IMPORTED_MODULE_2__angular_common__["c" /* Location */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_2__angular_common__["c" /* Location */]) === 'function' && _b) || Object, (typeof (_c = typeof __WEBPACK_IMPORTED_MODULE_3__rest_service__["a" /* RestService */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_3__rest_service__["a" /* RestService */]) === 'function' && _c) || Object])
+        __metadata('design:paramtypes', [(typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__angular_router__["c" /* ActivatedRoute */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_1__angular_router__["c" /* ActivatedRoute */]) === 'function' && _a) || Object, (typeof (_b = typeof __WEBPACK_IMPORTED_MODULE_2__angular_common__["e" /* Location */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_2__angular_common__["e" /* Location */]) === 'function' && _b) || Object, (typeof (_c = typeof __WEBPACK_IMPORTED_MODULE_3__rest_service__["a" /* RestService */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_3__rest_service__["a" /* RestService */]) === 'function' && _c) || Object])
     ], EditSvComponent);
     return EditSvComponent;
     var _a, _b, _c;
@@ -569,7 +569,7 @@ var EditSvComponent = (function () {
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_router__ = __webpack_require__(34);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_common__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_common__ = __webpack_require__(29);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_switchMap__ = __webpack_require__(426);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_switchMap___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_switchMap__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__token_parse_service__ = __webpack_require__(68);
@@ -724,7 +724,7 @@ var EditUserComponent = (function () {
             template: __webpack_require__(779),
             styles: [__webpack_require__(752)]
         }), 
-        __metadata('design:paramtypes', [(typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__angular_router__["c" /* ActivatedRoute */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_1__angular_router__["c" /* ActivatedRoute */]) === 'function' && _a) || Object, (typeof (_b = typeof __WEBPACK_IMPORTED_MODULE_2__angular_common__["c" /* Location */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_2__angular_common__["c" /* Location */]) === 'function' && _b) || Object, (typeof (_c = typeof __WEBPACK_IMPORTED_MODULE_4__token_parse_service__["a" /* TokenParseService */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_4__token_parse_service__["a" /* TokenParseService */]) === 'function' && _c) || Object, (typeof (_d = typeof __WEBPACK_IMPORTED_MODULE_5__rest_service__["a" /* RestService */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_5__rest_service__["a" /* RestService */]) === 'function' && _d) || Object])
+        __metadata('design:paramtypes', [(typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__angular_router__["c" /* ActivatedRoute */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_1__angular_router__["c" /* ActivatedRoute */]) === 'function' && _a) || Object, (typeof (_b = typeof __WEBPACK_IMPORTED_MODULE_2__angular_common__["e" /* Location */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_2__angular_common__["e" /* Location */]) === 'function' && _b) || Object, (typeof (_c = typeof __WEBPACK_IMPORTED_MODULE_4__token_parse_service__["a" /* TokenParseService */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_4__token_parse_service__["a" /* TokenParseService */]) === 'function' && _c) || Object, (typeof (_d = typeof __WEBPACK_IMPORTED_MODULE_5__rest_service__["a" /* RestService */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_5__rest_service__["a" /* RestService */]) === 'function' && _d) || Object])
     ], EditUserComponent);
     return EditUserComponent;
     var _a, _b, _c, _d;
@@ -983,7 +983,7 @@ var SupervisorComponent = (function () {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_common__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_common__ = __webpack_require__(29);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__token_parse_service__ = __webpack_require__(68);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SvGuard; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -1016,7 +1016,7 @@ var SvGuard = (function () {
     };
     SvGuard = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Injectable"])(), 
-        __metadata('design:paramtypes', [(typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__angular_common__["c" /* Location */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_1__angular_common__["c" /* Location */]) === 'function' && _a) || Object, (typeof (_b = typeof __WEBPACK_IMPORTED_MODULE_2__token_parse_service__["a" /* TokenParseService */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_2__token_parse_service__["a" /* TokenParseService */]) === 'function' && _b) || Object])
+        __metadata('design:paramtypes', [(typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__angular_common__["e" /* Location */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_1__angular_common__["e" /* Location */]) === 'function' && _a) || Object, (typeof (_b = typeof __WEBPACK_IMPORTED_MODULE_2__token_parse_service__["a" /* TokenParseService */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_2__token_parse_service__["a" /* TokenParseService */]) === 'function' && _b) || Object])
     ], SvGuard);
     return SvGuard;
     var _a, _b;
@@ -1031,7 +1031,7 @@ var SvGuard = (function () {
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_router__ = __webpack_require__(34);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_common__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_common__ = __webpack_require__(29);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SvListsComponent; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -1058,7 +1058,7 @@ var SvListsComponent = (function () {
             template: __webpack_require__(789),
             styles: [__webpack_require__(762)]
         }), 
-        __metadata('design:paramtypes', [(typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__angular_router__["a" /* Router */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_1__angular_router__["a" /* Router */]) === 'function' && _a) || Object, (typeof (_b = typeof __WEBPACK_IMPORTED_MODULE_2__angular_common__["c" /* Location */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_2__angular_common__["c" /* Location */]) === 'function' && _b) || Object])
+        __metadata('design:paramtypes', [(typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__angular_router__["a" /* Router */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_1__angular_router__["a" /* Router */]) === 'function' && _a) || Object, (typeof (_b = typeof __WEBPACK_IMPORTED_MODULE_2__angular_common__["e" /* Location */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_2__angular_common__["e" /* Location */]) === 'function' && _b) || Object])
     ], SvListsComponent);
     return SvListsComponent;
     var _a, _b;
@@ -1073,7 +1073,7 @@ var SvListsComponent = (function () {
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_router__ = __webpack_require__(34);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_common__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_common__ = __webpack_require__(29);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SvSkillsComponent; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -1100,7 +1100,7 @@ var SvSkillsComponent = (function () {
             template: __webpack_require__(790),
             styles: [__webpack_require__(763)]
         }), 
-        __metadata('design:paramtypes', [(typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__angular_router__["a" /* Router */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_1__angular_router__["a" /* Router */]) === 'function' && _a) || Object, (typeof (_b = typeof __WEBPACK_IMPORTED_MODULE_2__angular_common__["c" /* Location */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_2__angular_common__["c" /* Location */]) === 'function' && _b) || Object])
+        __metadata('design:paramtypes', [(typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__angular_router__["a" /* Router */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_1__angular_router__["a" /* Router */]) === 'function' && _a) || Object, (typeof (_b = typeof __WEBPACK_IMPORTED_MODULE_2__angular_common__["e" /* Location */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_2__angular_common__["e" /* Location */]) === 'function' && _b) || Object])
     ], SvSkillsComponent);
     return SvSkillsComponent;
     var _a, _b;
@@ -1114,7 +1114,7 @@ var SvSkillsComponent = (function () {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_common__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_common__ = __webpack_require__(29);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__rest_service__ = __webpack_require__(39);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return UserFormComponent; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -1247,7 +1247,7 @@ var UserFormComponent = (function () {
             template: __webpack_require__(791),
             styles: [__webpack_require__(764)]
         }), 
-        __metadata('design:paramtypes', [(typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_2__rest_service__["a" /* RestService */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_2__rest_service__["a" /* RestService */]) === 'function' && _a) || Object, (typeof (_b = typeof __WEBPACK_IMPORTED_MODULE_1__angular_common__["c" /* Location */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_1__angular_common__["c" /* Location */]) === 'function' && _b) || Object])
+        __metadata('design:paramtypes', [(typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_2__rest_service__["a" /* RestService */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_2__rest_service__["a" /* RestService */]) === 'function' && _a) || Object, (typeof (_b = typeof __WEBPACK_IMPORTED_MODULE_1__angular_common__["e" /* Location */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_1__angular_common__["e" /* Location */]) === 'function' && _b) || Object])
     ], UserFormComponent);
     return UserFormComponent;
     var _a, _b;
@@ -1261,7 +1261,7 @@ var UserFormComponent = (function () {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_common__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_common__ = __webpack_require__(29);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__token_parse_service__ = __webpack_require__(68);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return UserGuard; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -1294,7 +1294,7 @@ var UserGuard = (function () {
     };
     UserGuard = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Injectable"])(), 
-        __metadata('design:paramtypes', [(typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__angular_common__["c" /* Location */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_1__angular_common__["c" /* Location */]) === 'function' && _a) || Object, (typeof (_b = typeof __WEBPACK_IMPORTED_MODULE_2__token_parse_service__["a" /* TokenParseService */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_2__token_parse_service__["a" /* TokenParseService */]) === 'function' && _b) || Object])
+        __metadata('design:paramtypes', [(typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__angular_common__["e" /* Location */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_1__angular_common__["e" /* Location */]) === 'function' && _a) || Object, (typeof (_b = typeof __WEBPACK_IMPORTED_MODULE_2__token_parse_service__["a" /* TokenParseService */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_2__token_parse_service__["a" /* TokenParseService */]) === 'function' && _b) || Object])
     ], UserGuard);
     return UserGuard;
     var _a, _b;
@@ -1421,41 +1421,42 @@ __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__angular_platform_browser_dyna
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_forms__ = __webpack_require__(339);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_http__ = __webpack_require__(168);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__angular_core__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__admin_admin_component__ = __webpack_require__(371);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__admin_guard__ = __webpack_require__(368);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__admin_lists_admin_lists_component__ = __webpack_require__(369);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__admin_skills_admin_skills_component__ = __webpack_require__(370);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__authmanager__ = __webpack_require__(175);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__app_component__ = __webpack_require__(372);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__clock_clock_component__ = __webpack_require__(575);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__clear_storage_clear_storage_component__ = __webpack_require__(574);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__employee_employee_component__ = __webpack_require__(375);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__edit_sv_edit_sv_component__ = __webpack_require__(373);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__edit_user_edit_user_component__ = __webpack_require__(374);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__filter_pipe__ = __webpack_require__(576);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__log_in_log_in_component__ = __webpack_require__(377);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_17__log_out_log_out_component__ = __webpack_require__(579);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_18__role_pipe__ = __webpack_require__(581);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_19__log_out_service__ = __webpack_require__(248);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_20__navbar_navbar_component__ = __webpack_require__(249);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_21__inactive_list_inactive_list_component__ = __webpack_require__(577);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_22__routing_routing_module__ = __webpack_require__(582);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_23__rest_service__ = __webpack_require__(39);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_24__state_pipe__ = __webpack_require__(585);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_25__skills_global_skills_global_component__ = __webpack_require__(583);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_26__spec_pipe__ = __webpack_require__(584);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_27__string_pipe__ = __webpack_require__(587);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_28__sv_guard__ = __webpack_require__(379);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_29__supervisor_supervisor_component__ = __webpack_require__(378);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_30__status_table_status_table_component__ = __webpack_require__(586);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_31__sv_list_sv_list_component__ = __webpack_require__(588);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_32__sv_lists_sv_lists_component__ = __webpack_require__(380);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_33__sv_skills_sv_skills_component__ = __webpack_require__(381);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_34__token_parse_service__ = __webpack_require__(68);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_35__user_guard__ = __webpack_require__(383);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_36__user_form_user_form_component__ = __webpack_require__(382);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_37__user_list_user_list_component__ = __webpack_require__(589);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_38__name_team_pipe__ = __webpack_require__(580);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__angular_common__ = __webpack_require__(29);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__admin_admin_component__ = __webpack_require__(371);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__admin_guard__ = __webpack_require__(368);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__admin_lists_admin_lists_component__ = __webpack_require__(369);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__admin_skills_admin_skills_component__ = __webpack_require__(370);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__authmanager__ = __webpack_require__(175);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__app_component__ = __webpack_require__(372);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__clock_clock_component__ = __webpack_require__(575);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__clear_storage_clear_storage_component__ = __webpack_require__(574);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__employee_employee_component__ = __webpack_require__(375);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__edit_sv_edit_sv_component__ = __webpack_require__(373);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__edit_user_edit_user_component__ = __webpack_require__(374);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__filter_pipe__ = __webpack_require__(576);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_17__log_in_log_in_component__ = __webpack_require__(377);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_18__log_out_log_out_component__ = __webpack_require__(579);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_19__role_pipe__ = __webpack_require__(581);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_20__log_out_service__ = __webpack_require__(248);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_21__navbar_navbar_component__ = __webpack_require__(249);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_22__inactive_list_inactive_list_component__ = __webpack_require__(577);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_23__routing_routing_module__ = __webpack_require__(582);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_24__rest_service__ = __webpack_require__(39);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_25__state_pipe__ = __webpack_require__(585);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_26__skills_global_skills_global_component__ = __webpack_require__(583);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_27__spec_pipe__ = __webpack_require__(584);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_28__string_pipe__ = __webpack_require__(587);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_29__sv_guard__ = __webpack_require__(379);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_30__supervisor_supervisor_component__ = __webpack_require__(378);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_31__status_table_status_table_component__ = __webpack_require__(586);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_32__sv_list_sv_list_component__ = __webpack_require__(588);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_33__sv_lists_sv_lists_component__ = __webpack_require__(380);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_34__sv_skills_sv_skills_component__ = __webpack_require__(381);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_35__token_parse_service__ = __webpack_require__(68);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_36__user_guard__ = __webpack_require__(383);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_37__user_form_user_form_component__ = __webpack_require__(382);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_38__user_list_user_list_component__ = __webpack_require__(589);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_39__name_team_pipe__ = __webpack_require__(580);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AppModule; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -1505,57 +1506,59 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 
 
 
+
 var AppModule = (function () {
     function AppModule() {
     }
     AppModule = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_3__angular_core__["NgModule"])({
             declarations: [
-                __WEBPACK_IMPORTED_MODULE_4__admin_admin_component__["a" /* AdminComponent */],
-                __WEBPACK_IMPORTED_MODULE_6__admin_lists_admin_lists_component__["a" /* AdminListsComponent */],
-                __WEBPACK_IMPORTED_MODULE_7__admin_skills_admin_skills_component__["a" /* AdminSkillsComponent */],
-                __WEBPACK_IMPORTED_MODULE_9__app_component__["a" /* AppComponent */],
-                __WEBPACK_IMPORTED_MODULE_10__clock_clock_component__["a" /* ClockComponent */],
-                __WEBPACK_IMPORTED_MODULE_11__clear_storage_clear_storage_component__["a" /* ClearStorageComponent */],
-                __WEBPACK_IMPORTED_MODULE_12__employee_employee_component__["a" /* EmployeeComponent */],
-                __WEBPACK_IMPORTED_MODULE_13__edit_sv_edit_sv_component__["a" /* EditSvComponent */],
-                __WEBPACK_IMPORTED_MODULE_14__edit_user_edit_user_component__["a" /* EditUserComponent */],
-                __WEBPACK_IMPORTED_MODULE_15__filter_pipe__["a" /* FilterPipe */],
-                __WEBPACK_IMPORTED_MODULE_16__log_in_log_in_component__["a" /* LogInComponent */],
-                __WEBPACK_IMPORTED_MODULE_17__log_out_log_out_component__["a" /* LogOutComponent */],
-                __WEBPACK_IMPORTED_MODULE_20__navbar_navbar_component__["a" /* NavbarComponent */],
-                __WEBPACK_IMPORTED_MODULE_21__inactive_list_inactive_list_component__["a" /* InactiveListComponent */],
-                __WEBPACK_IMPORTED_MODULE_18__role_pipe__["a" /* RolePipe */],
-                __WEBPACK_IMPORTED_MODULE_31__sv_list_sv_list_component__["a" /* SvListComponent */],
-                __WEBPACK_IMPORTED_MODULE_24__state_pipe__["a" /* StatePipe */],
-                __WEBPACK_IMPORTED_MODULE_25__skills_global_skills_global_component__["a" /* SkillsGlobalComponent */],
-                __WEBPACK_IMPORTED_MODULE_26__spec_pipe__["a" /* SpecPipe */],
-                __WEBPACK_IMPORTED_MODULE_27__string_pipe__["a" /* StringPipe */],
-                __WEBPACK_IMPORTED_MODULE_29__supervisor_supervisor_component__["a" /* SupervisorComponent */],
-                __WEBPACK_IMPORTED_MODULE_30__status_table_status_table_component__["a" /* StatusTableComponent */],
-                __WEBPACK_IMPORTED_MODULE_32__sv_lists_sv_lists_component__["a" /* SvListsComponent */],
-                __WEBPACK_IMPORTED_MODULE_33__sv_skills_sv_skills_component__["a" /* SvSkillsComponent */],
-                __WEBPACK_IMPORTED_MODULE_37__user_list_user_list_component__["a" /* UserListComponent */],
-                __WEBPACK_IMPORTED_MODULE_36__user_form_user_form_component__["a" /* UserFormComponent */],
-                __WEBPACK_IMPORTED_MODULE_38__name_team_pipe__["a" /* NameTeamPipe */]
+                __WEBPACK_IMPORTED_MODULE_5__admin_admin_component__["a" /* AdminComponent */],
+                __WEBPACK_IMPORTED_MODULE_7__admin_lists_admin_lists_component__["a" /* AdminListsComponent */],
+                __WEBPACK_IMPORTED_MODULE_8__admin_skills_admin_skills_component__["a" /* AdminSkillsComponent */],
+                __WEBPACK_IMPORTED_MODULE_10__app_component__["a" /* AppComponent */],
+                __WEBPACK_IMPORTED_MODULE_11__clock_clock_component__["a" /* ClockComponent */],
+                __WEBPACK_IMPORTED_MODULE_12__clear_storage_clear_storage_component__["a" /* ClearStorageComponent */],
+                __WEBPACK_IMPORTED_MODULE_13__employee_employee_component__["a" /* EmployeeComponent */],
+                __WEBPACK_IMPORTED_MODULE_14__edit_sv_edit_sv_component__["a" /* EditSvComponent */],
+                __WEBPACK_IMPORTED_MODULE_15__edit_user_edit_user_component__["a" /* EditUserComponent */],
+                __WEBPACK_IMPORTED_MODULE_16__filter_pipe__["a" /* FilterPipe */],
+                __WEBPACK_IMPORTED_MODULE_17__log_in_log_in_component__["a" /* LogInComponent */],
+                __WEBPACK_IMPORTED_MODULE_18__log_out_log_out_component__["a" /* LogOutComponent */],
+                __WEBPACK_IMPORTED_MODULE_21__navbar_navbar_component__["a" /* NavbarComponent */],
+                __WEBPACK_IMPORTED_MODULE_22__inactive_list_inactive_list_component__["a" /* InactiveListComponent */],
+                __WEBPACK_IMPORTED_MODULE_19__role_pipe__["a" /* RolePipe */],
+                __WEBPACK_IMPORTED_MODULE_32__sv_list_sv_list_component__["a" /* SvListComponent */],
+                __WEBPACK_IMPORTED_MODULE_25__state_pipe__["a" /* StatePipe */],
+                __WEBPACK_IMPORTED_MODULE_26__skills_global_skills_global_component__["a" /* SkillsGlobalComponent */],
+                __WEBPACK_IMPORTED_MODULE_27__spec_pipe__["a" /* SpecPipe */],
+                __WEBPACK_IMPORTED_MODULE_28__string_pipe__["a" /* StringPipe */],
+                __WEBPACK_IMPORTED_MODULE_30__supervisor_supervisor_component__["a" /* SupervisorComponent */],
+                __WEBPACK_IMPORTED_MODULE_31__status_table_status_table_component__["a" /* StatusTableComponent */],
+                __WEBPACK_IMPORTED_MODULE_33__sv_lists_sv_lists_component__["a" /* SvListsComponent */],
+                __WEBPACK_IMPORTED_MODULE_34__sv_skills_sv_skills_component__["a" /* SvSkillsComponent */],
+                __WEBPACK_IMPORTED_MODULE_38__user_list_user_list_component__["a" /* UserListComponent */],
+                __WEBPACK_IMPORTED_MODULE_37__user_form_user_form_component__["a" /* UserFormComponent */],
+                __WEBPACK_IMPORTED_MODULE_39__name_team_pipe__["a" /* NameTeamPipe */]
             ],
             imports: [
                 __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__["a" /* BrowserModule */],
                 __WEBPACK_IMPORTED_MODULE_1__angular_forms__["a" /* FormsModule */],
                 __WEBPACK_IMPORTED_MODULE_2__angular_http__["HttpModule"],
-                __WEBPACK_IMPORTED_MODULE_22__routing_routing_module__["a" /* RoutingModule */],
+                __WEBPACK_IMPORTED_MODULE_23__routing_routing_module__["a" /* RoutingModule */],
                 __WEBPACK_IMPORTED_MODULE_1__angular_forms__["b" /* ReactiveFormsModule */]
             ],
             providers: [
-                __WEBPACK_IMPORTED_MODULE_8__authmanager__["a" /* AuthManager */],
-                __WEBPACK_IMPORTED_MODULE_19__log_out_service__["a" /* LogOutService */],
-                __WEBPACK_IMPORTED_MODULE_35__user_guard__["a" /* UserGuard */],
-                __WEBPACK_IMPORTED_MODULE_28__sv_guard__["a" /* SvGuard */],
-                __WEBPACK_IMPORTED_MODULE_5__admin_guard__["a" /* AdminGuard */],
-                __WEBPACK_IMPORTED_MODULE_34__token_parse_service__["a" /* TokenParseService */],
-                __WEBPACK_IMPORTED_MODULE_23__rest_service__["a" /* RestService */]
+                { provide: __WEBPACK_IMPORTED_MODULE_4__angular_common__["a" /* LocationStrategy */], useClass: __WEBPACK_IMPORTED_MODULE_4__angular_common__["b" /* HashLocationStrategy */] },
+                __WEBPACK_IMPORTED_MODULE_9__authmanager__["a" /* AuthManager */],
+                __WEBPACK_IMPORTED_MODULE_20__log_out_service__["a" /* LogOutService */],
+                __WEBPACK_IMPORTED_MODULE_36__user_guard__["a" /* UserGuard */],
+                __WEBPACK_IMPORTED_MODULE_29__sv_guard__["a" /* SvGuard */],
+                __WEBPACK_IMPORTED_MODULE_6__admin_guard__["a" /* AdminGuard */],
+                __WEBPACK_IMPORTED_MODULE_35__token_parse_service__["a" /* TokenParseService */],
+                __WEBPACK_IMPORTED_MODULE_24__rest_service__["a" /* RestService */]
             ],
-            bootstrap: [__WEBPACK_IMPORTED_MODULE_9__app_component__["a" /* AppComponent */]]
+            bootstrap: [__WEBPACK_IMPORTED_MODULE_10__app_component__["a" /* AppComponent */]]
         }), 
         __metadata('design:paramtypes', [])
     ], AppModule);
